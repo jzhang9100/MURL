@@ -5,4 +5,4 @@ Created durring CWRU hackathon. Mobile URL Reader (MURL) uses OCR to detect urls
 
 Contributers:
 
-Me(Jack Z.), Rishik H., Kyle N., Aman B.
+Jack Z., Rishik H., Kyle N., Aman B.
